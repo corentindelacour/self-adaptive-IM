@@ -1,5 +1,5 @@
 # self-adaptive-IM
-Matlab code simulating self-adaptive Ising machines (SAIM) for constrained combinatorial optimization. SAIMs are based on a Lagrange relaxation of constraint to shape the energy landscape during the operation.
+Matlab code simulating self-adaptive Ising machines (SAIM) for constrained combinatorial optimization. SAIMs are based on a Lagrange relaxation of constraint that iteratively shapes the energy landscape and brings the ground states to satisfiable regions.
 For more information, please see the arxiv paper:
 https://arxiv.org/pdf/2501.04971
 
