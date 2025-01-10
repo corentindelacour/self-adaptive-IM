@@ -1,5 +1,7 @@
 # self-adaptive-IM
-Matlab code simulating self-adaptive Ising machines (SAIM) for constrained optimization.
+Matlab code simulating self-adaptive Ising machines (SAIM) for constrained combinatorial optimization. SAIMs are based on a Lagrange relaxation of constraint to shape the energy landscape during the operation.
+For more information, please see the arxiv paper:
+https://arxiv.org/pdf/2501.04971
 
 The Matlab file SAIM_QKP.m executes a probabilistic-bit (p-bit) SAIM for quadratic knapsack problems. SAIM_MKP.m addresses multidimensional knapsack problems.
 
